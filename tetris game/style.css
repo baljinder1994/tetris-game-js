@@ -1,0 +1,12 @@
+body{
+  color:#fff;
+  font-size: 2em;
+  text-align: center;
+}
+canvas{
+  border:solid .3em #888;
+  height:90vh
+}
+div{
+  color:red
+}
